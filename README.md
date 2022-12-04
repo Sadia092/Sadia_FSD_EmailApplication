@@ -1,6 +1,6 @@
 # Sadia_FSD_EmailApplication
 
-Aaplication for an IT Support Administrator charged with the task of creating credentials for
+Application for an IT Support Administrator charged with the task of creating credentials for
 new hires
 
 
